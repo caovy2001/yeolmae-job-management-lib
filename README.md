@@ -121,7 +121,8 @@ JOB_MANAGEMENT_ROOT_PASS=123456 // Enter the password to log in from UI (Example
 ```
 
 ## HOW TO USE?
-Access to this link: [Bull Queue Job management](`https://vyphotphet100.github.io/yeolmae-job-management/index.html`) <br>
+Run the project <br>
+Access to this link: `https://vyphotphet100.github.io/yeolmae-job-management/index.html` <br>
 Enter the `Hostname` and `Root password` <br>
 Click `Connect` <br>
 
