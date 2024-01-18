@@ -1,0 +1,26 @@
+{
+  "name": "yeolmae-job-management",
+  "version": "1.0.3",
+  "description": "A library for management of Nestjs Bull Queue job ",
+  "main": "index.js",
+  "keywords": [
+    "yeolmae-job",
+    "bull",
+    "queue",
+    "job"
+  ],
+  "author": "Cao Dinh Sy Vy",
+  "license": "ISC",
+  "dependencies": {
+    "@nestjs/bull": "^10.0.1",
+    "@nestjs/common": "^10.0.0",
+    "@nestjs/core": "^10.0.0",
+    "@nestjs/platform-express": "^10.0.0",
+    "@nestjs/typeorm": "^10.0.1",
+    "bull": "^4.12.0",
+    "mysql2": "^3.7.0",
+    "reflect-metadata": "^0.1.13",
+    "rxjs": "^7.8.1",
+    "typeorm": "^0.3.19"
+  }
+}
